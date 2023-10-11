@@ -112,5 +112,5 @@ client.on('messageCreate', async (message) => {
     }
 })
 
-client.login("MTEyNzgwMDAzNzI4MDMyOTc3MA.GNEfgZ.HIaR1KQVL1rkNSKcUyNxORqoseMkLsWXGWHj1g");
-// Current Bot Token ID = MTEyNzgwMDAzNzI4MDMyOTc3MA.GNEfgZ.HIaR1KQVL1rkNSKcUyNxORqoseMkLsWXGWHj1g
+// Use Bot Token ID here
+client.login();
