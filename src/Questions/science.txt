@@ -1,0 +1,60 @@
+What is the main component of Earth's atmosphere?
+nitrogen
+What is the chemical symbol for water?
+h2o
+What is the chemical symbol for gold?
+au
+What is the chemical symbol for the element with the atomic number 1?
+hydrogen
+What type of energy is associated with the motion of an object?
+kinetic
+Fill in the blank ___ energy that is stored in an object due to its position relative to some zero position
+potential
+What is the process of a solid turning into a liquid?
+melting
+What term describes the resistance of an object to changes in its motion?
+inertia
+What term describes the force of attraction between any two objects with mass?
+gravity
+What is the SI unit of electric potential difference?
+volt
+What's the process of converting heat into mechanical work in engines and machines?
+thermodynamics
+What is the term for a substance that can't be broken down into simpler substances by chemical means?
+element
+What is the term for the smallest unit of life, capable of carrying out all life processes?
+cell
+What is the study of the classification and naming of living organisms?
+taxonomy
+What is the simplified name of the molecule that stores and transfers genetic information in cells?
+dna
+What is the process by which cells break down glucose to produce energy?
+respiration
+What is the term for the random changes in the DNA sequence of an organism over time? (plural form)
+mutations
+What is the pigment responsible for the green color in plant leaves?
+chlorophyll
+What is the process by which plants convert sunlight into chemical energy to fuel their growth?
+photosynthesis
+Fill in the blank: The ____ is the powerhouse of the cell.
+mitochondria
+What is the term used to describe a section of DNA that codes for a specific protein or trait?
+gene
+What neurotransmitter is often associated with feelings of pleasure and reward and is targeted by drugs like cocaine and opioids?
+dopamine
+What is the term for the point in space where the gravitational pull of a massive body is so strong that nothing, not even light, can escape it?
+black hole
+What is the term for a substance that speeds up a chemical reaction without being consumed in the process?
+catalyst
+What is the process by which rocks are broken down into smaller fragments and transported by natural forces like wind, water, or ice?
+erosion
+What is the term for the junction between two neurons where signals are transmitted from one to the other?
+synapse
+What is the process by which sedimentary rock is formed from the accumulation and compression of organic materials, such as plant and animal remains?
+fossilization
+What is the term for the process by which an unstable atomic nucleus releases energy by emitting particles or electromagnetic radiation?
+radioactive decay
+Fill in the blank: Nuclear ___ is a reaction in which the nucleus of an atom splits into two or more smaller nuclei.
+fission
+Fill in the blank: Nuclear ___ is the process by which two light atomic nuclei combine to form a single heavier one while releasing massive amounts of energy.
+fusion

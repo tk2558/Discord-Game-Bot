@@ -1,0 +1,60 @@
+What is the square of 10?
+100
+What is the product of 7 and 8?
+56
+There are __ degrees in a right angle
+90
+A triangle with the sides of length 3, 4, and 5, is classified as a ___ triangle 
+right
+Solve for x in the equation 2x + 5 = 15.
+5
+If a train travels at 60 miles per hour for 3 hours, how far does it go?
+180
+What is the probability of drawing a red card from a standard deck of 52 playing cards (in decimal)?
+.5
+What is the reciprocal of 3/4?
+4/3
+What is the derivative of the function f(x) = 3x?
+3
+If you roll a fair six-sided die, what is the probability of rolling a 4?
+1/6
+Solve for y in the equation 3y - 9 = 18.
+9
+What is the square root of 144?
+12
+What is the term for a polygon with six sides?
+hexagon
+What is the term for a polygon with seven sides?
+heptagon
+What is the term for a three-dimensional shape with all sides and angles equal in size?
+cube
+What is the sum of the interior angles of a pentagon?
+540
+What is the sum of exterior angles of a heptagon?
+360
+What is the next number in the sequence: 1, 4, 9, 16, 25...?
+36
+What is the ___-intercept form of a linear equation: y = mx + b?
+slope
+If a right triangle has a hypotenuse of length 10 and one leg of length 6, what is the length of the other leg?
+8
+What is the measure of central tendency that represents the middle value of a dataset when arranged in order?
+median
+What is the term for a three-dimensional shape with six rectangular faces?
+rectangular prism
+What is the term for a three-dimensional shape with two parallel and congruent circular bases?
+cylinder
+What is the smallest positive integer that is divisible by all the integers from 1 to 10?
+2520
+What is the name for a straight line that touches a circle at a single point?
+tangent
+In a right triangle, what is the trigonometric ratio opposite/adjacent is the ___ of an angle?
+tangent
+In a right triangle, what is the trigonometric ratio opposite/hypotenuse is the ___ angle?
+sine
+What is the next number in the Fibonacci sequence after 0, 1, 1, 2, 3, 5...?
+8
+What is the largest two-digit prime number?
+97
+If a clock reads 3:45, the clock's minute hand angle from 12 o'clock is ___ degrees?
+112.5

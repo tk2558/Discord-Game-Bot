@@ -1,0 +1,24 @@
+{
+    "dependencies": {
+        "@discordjs/builders": "^1.6.3",
+        "@discordjs/opus": "^0.9.0",
+        "@discordjs/rest": "^1.7.1",
+        "@discordjs/voice": "^0.16.0",
+        "discord-api-types": "^0.37.47",
+        "discord-player": "^6.6.1",
+        "discord.js": "^14.11.0",
+        "discord.js-commando": "^0.12.3",
+        "dotenv": "^16.3.1",
+        "ffmpeg-static": "^5.1.0"
+    },
+    "name": "discordbots",
+    "version": "1.0.0",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
