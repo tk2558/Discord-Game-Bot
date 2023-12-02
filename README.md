@@ -4,6 +4,7 @@ This is a discord bot with different games users may play inside a discord serve
 
 # 1) Slots
 -> A basic slot machine users may play using the command !slots  
+
 -> A gif will be sent when someone wins the slot machine  
    
 # 2) Wordle
